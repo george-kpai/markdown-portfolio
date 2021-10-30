@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+##George
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
